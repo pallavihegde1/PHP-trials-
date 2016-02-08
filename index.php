@@ -61,6 +61,7 @@ $diffPricePercent = (($currPrice - $origPrice) * 100)/$origPrice
 </tr>
 
 </table>
+<h3> work</h3>
 
 </body>
 
@@ -68,3 +69,4 @@ $diffPricePercent = (($currPrice - $origPrice) * 100)/$origPrice
 
 
 
+<!-- trying-->
